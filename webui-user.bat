@@ -1,9 +1,8 @@
 @echo off
 
-set PYTHON=C:\AI\stable-diffusion-webui\venv\Scripts\Python.exe
+set PYTHON=
+set GIT=
 set VENV_DIR=
-set COMMANDLINE_ARGS=--xformers --precision full
-git pull
+set COMMANDLINE_ARGS=
+
 call webui.bat
-
-
