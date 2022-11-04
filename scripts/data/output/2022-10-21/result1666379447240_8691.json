@@ -1,0 +1,12 @@
+{
+  "type": "txt2img",
+  "prompt": "fantasy landscape",
+  "negativePrompt": "no send",
+  "cfg": "7",
+  "width": 512,
+  "height": 512,
+  "sampler": "LMS",
+  "seed": "4085457925",
+  "steps": 15,
+  "tiling": false
+}
